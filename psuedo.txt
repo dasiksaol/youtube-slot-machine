@@ -1,0 +1,8 @@
+Make a deposit
+get amount of line to bet on
+get amount bet on each line
+get slot machine 
+display slot machine 
+check winning
+put number 2-6 in a function
+run deposit + 7
